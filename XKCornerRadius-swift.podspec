@@ -28,7 +28,8 @@ TODO: 高性能圆角工具。支持frame，AutoLayout布局
   s.source           = { :git => 'https://github.com/sy5075391/XKCornerRadius-swift.git', :tag => "1.0.0" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
+  s.platform = :ios,"10.0"
 
   s.source_files = 'XKCornerRadius/Classes/**/*'
   s.requires_arc = true
