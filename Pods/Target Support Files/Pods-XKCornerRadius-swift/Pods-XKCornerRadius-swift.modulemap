@@ -1,0 +1,6 @@
+framework module Pods_XKCornerRadius_swift {
+  umbrella header "Pods-XKCornerRadius-swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
